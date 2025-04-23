@@ -1,0 +1,52 @@
+_repo: Nem-elhetek-muzsikaszo-nelkul_75636
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Móricz, Zsigmond
+    alias: Moricz, Zsigmond
+    birthdate: 1879
+    deathdate: 1942
+    gutenberg_agent_id: '41606'
+    url: http://www.gutenberg.org/2009/agents/41606
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
+    - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
+description: 'Reading ease score: 75.2 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Culture/Civilization/Society'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75636'
+language: hu
+pgterms:marc905: 20250204114928mricz
+pgterms:marc906: '1916'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: '  $aBudapest :$bLégrády Testvérek, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+summary: '"Nem élhetek muzsikaszó nélkül" by Zsigmond Móricz is a novel likely written
+  in the early 20th century. The story revolves around Balázs, a young host celebrating
+  his name day, who is initially surrounded by lively guests and music, but soon finds
+  himself grappling with his personal relationships and the consequences of his hedonistic
+  lifestyle. The setting captures the atmosphere of a rural Hungarian celebration
+  while hinting at deeper societal themes.  At the start of the narrative, the festivities
+  surrounding Balázs’ celebration are vividly depicted with guests and music filling
+  the air. He is filled with joviality as he engages with his friends, but beneath
+  the surface lies tension, particularly in his interactions with his wife, Pólika,
+  who is increasingly dissatisfied with his indulgent behavior. As the night wears
+  on, guests begin to leave, leading to a confrontation between Balázs and Pólika,
+  which reflects their troubled marriage and Balázs’s inability to balance his desires
+  with marital responsibilities. This opening sets the stage for exploring themes
+  of joy, sorrow, and the struggle between personal fulfillment and familial duty.
+  (This is an automatically generated summary.)'
+title: Nem élhetek muzsikaszó nélkül
+url: http://www.gutenberg.org/ebooks/75636

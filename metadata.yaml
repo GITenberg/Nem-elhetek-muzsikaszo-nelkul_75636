@@ -1,5 +1,8 @@
 _repo: Nem-elhetek-muzsikaszo-nelkul_75636
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Móricz, Zsigmond
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Zsigmond_M%C3%B3ricz
     - https://hu.wikipedia.org/wiki/M%C3%B3ricz_Zsigmond
 description: 'Reading ease score: 75.2 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75636#Nem-elhetek-muzsikaszo-nelkul
 gutenberg_bookshelf:
 - 'Browsing: Culture/Civilization/Society'
 - 'Browsing: Fiction'
